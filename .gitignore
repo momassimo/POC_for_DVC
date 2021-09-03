@@ -67,5 +67,5 @@ venv*/
 
 # project-specific stuff
 # exclude data from source control (but keep the folder)
-data/*
-!data/.gitkeep
+#data/*
+#!data/.gitkeep
